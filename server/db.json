@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "name": "Cam",
+      "price": 212,
+      "quantity": 17,
+      "description": "Ngon và mọng nước",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Táo",
+      "price": 80,
+      "quantity": 20,
+      "description": "Giòn, ngọt và thơm"
+    },
+    {
+      "id": 3,
+      "name": "Chuối",
+      "price": 50,
+      "quantity": 15,
+      "description": "Chuối chín thơm ngon, bổ dưỡng"
+    },
+    {
+      "id": 4,
+      "name": "Dưa hấu",
+      "price": 120,
+      "quantity": 8,
+      "description": "Dưa hấu đỏ, mọng nước"
+    },
+    {
+      "id": 5,
+      "name": "Xoài",
+      "price": 90,
+      "quantity": 10,
+      "description": "Xoài chín vàng, ngọt lịm"
+    },
+    {
+      "id": 6,
+      "name": "Lê",
+      "price": 70,
+      "quantity": 18,
+      "description": "Quả lê giòn, ngọt"
+    },
+    {
+      "id": 7,
+      "name": "Đào",
+      "price": 85,
+      "quantity": 14,
+      "description": "Đào chín mọng, thơm ngon"
+    },
+    {
+      "id": 8,
+      "name": "Nho",
+      "price": 150,
+      "quantity": 25,
+      "description": "Chùm nho ngọt, mọng nước"
+    },
+    {
+      "id": 9,
+      "name": "Mít",
+      "price": 110,
+      "quantity": 7,
+      "description": "Mít thơm, ngọt, giòn"
+    },
+    {
+      "id": 10,
+      "name": "Dừa",
+      "price": 60,
+      "quantity": 30,
+      "description": "Dừa tươi, nước ngọt thanh"
+    },
+    {
+      "name": "Nho Bân",
+      "price": 112,
+      "quantity": 22,
+      "description": "Chùm nho Bân ngọt, mọng nước",
+      "id": 11
+    },
+    {
+      "name": "Men Men",
+      "price": 20000,
+      "quantity": 10,
+      "description": "Hoi kho",
+      "id": 12
+    }
+  ]
+}
